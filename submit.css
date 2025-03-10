@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/* Font styling */
+html{
+    .mochiy-pop-p-one-regular {
+        font-family: "Mochiy Pop P One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+
+.mochiy{
+    font-family: "Mochiy Pop P One", sans-serif;
+}
+
+h1{
+    text-align: center;
+    height: 30vh;
+}
+
+h2{
+    text-align: center;
+    height: 30vh;
+}
+
+main a{
+    display: block;
+    text-align: center;
+}
+
+.homehe{
+    margin-bottom: 39px;
+}
+
+footer{
+    margin: 0 auto;
+}
